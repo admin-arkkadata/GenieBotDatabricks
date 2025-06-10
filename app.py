@@ -7,7 +7,7 @@ Revision: 1.0
 This script implements an experimental chatbot that interacts with Databricks' Genie API. The bot facilitates conversations with Genie,
 Databricks' AI assistant, through a chat interface.
 
-Note: This is experimental code and is not intended for production use.
+Note: This is experimental code and is not intended for production use
 
 
 Update on May 02 to reflect Databricks API Changes https://www.databricks.com/blog/genie-conversation-apis-public-preview
